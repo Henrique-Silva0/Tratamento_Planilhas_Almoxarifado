@@ -1,0 +1,40 @@
+{
+    "rules": [
+        {
+            "codigo": "81200012",
+            "divisor": 600
+        },
+        {
+            "codigo": "81200011",
+            "divisor": 750
+        },
+        {
+            "codigo": "81500511",
+            "divisor": 500
+        },
+        {
+            "codigo": "81400013",
+            "divisor": 10
+        },
+        {
+            "codigo": "00000847",
+            "divisor": 10
+        },
+        {
+            "codigo": "81400003",
+            "divisor": 10
+        },
+        {
+            "codigo": "81500870",
+            "divisor": 2000
+        },
+        {
+            "codigo": "81200010",
+            "divisor": 600
+        },
+        {
+            "codigo": "81500783",
+            "divisor": 300
+        }
+    ]
+}
